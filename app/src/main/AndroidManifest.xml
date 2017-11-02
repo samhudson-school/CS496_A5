@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".DataEntry"
+            android:label="@string/title_activity_data_entry"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
